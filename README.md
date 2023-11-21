@@ -43,10 +43,10 @@ Welcome to the IT5016D Helpdesk Ticket System! This system is designed to manage
 
 Here's an example of submitting a new ticket:
 
-`Enter your name: John Doe
-Enter your Staff ID: JD123
-Enter your email: john.doe@example.com
-Describe your issue or type "Change Password" to reset your password: Printer not working
+`Enter your name: John Doe`
+`Enter your Staff ID: JD123`
+`Enter your email: john.doe@example.com`
+`Describe your issue or type "Change Password" to reset your password: Printer not working
 `
 
 When a ticket is resolved, an automated response is added. For example:
