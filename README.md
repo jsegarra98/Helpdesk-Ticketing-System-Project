@@ -1,6 +1,6 @@
 # IT5016D Helpdesk Ticket System
 
-Welcome to the IT5016D Helpdesk Ticket System! This system is designed to manage helpdesk tickets for internal customers, facilitating efficient communication and issue resolution.
+Welcome to the Helpdesk Ticket System! This system is designed to manage helpdesk tickets for internal customers, facilitating efficient communication and issue resolution. This is a prototype project made during my studies.
 
 - The system keeps track of ticket statistics, including the number of created, resolved, and open tickets.
 - Each ticket is assigned a unique ticket number.
